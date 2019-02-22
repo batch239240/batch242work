@@ -4,7 +4,7 @@ public class Batch242
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Batch242");
+		System.out.println("Hi Batch242");
 
 	}
 }
